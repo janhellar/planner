@@ -1,0 +1,7 @@
+body {
+  user-select: none;
+}
+
+#root > section {
+  min-height: 100vh;
+}
